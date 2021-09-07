@@ -1,39 +1,43 @@
-Artur Markasian
-Contacts:
-Discord: MRKS77
-E-mail: artxmarkos@gmail.com
-Tel: +375297901598
-About myself:
+# Fesenko Oleksandr
+
+## Junior Frontend Developer
+
+### Contacts:
+E-mail: fesa3400@gmail.com
+Tel: +38
+
+### About myself:
 I want to learn Front-End Development in RSSchool!
 
-Code example:
-function fizzbuzz(n)
-{
-  let ar = [];
-  for ( let i = 1; i <= n; i++) {
-    if ( (i % 3 === 0) && (i % 5 === 0)) {
-      ar.push('FizzBuzz');
-    }
-    else if ( i % 3 === 0 ) {
-      ar.push("Fizz");
-    }
-    else if ( i % 5 === 0) {
-      ar.push("Buzz");
-    }
-    else {
-      ar.push(i);
-    }
-  }
-  return ar;
-}
-Work experience:
+### Skills
+    
+    Python
+    HTML
+    CSS
+    JavaScript (Basic)
+    Git
+    SQL
+
+
+### Code example:
+
+### Work experience:
 Nothing yet…
 
-Education and courses:
+### Education and courses:
+
 CS50 video course
-JS, CSS, HTML, Git video courses on YouTube channel Glo Academy
-JavaScript https://learn.javascript.ru/
+
+Coursera 
+
 FreeCodeCamp Responsive Web Design https://www.freecodecamp.org/certification/mrks77/responsive-web-design
-FreeCodeCamp JavaScript Algorithms and Data Structures https://www.freecodecamp.org/certification/mrks77/javascript-algorithms-and-data-structures
-Language:
-English level - A2
+
+### Language:
+
+Rassian - native
+
+Ukrainian - native
+
+English level - B1
+
+Polish - B1
