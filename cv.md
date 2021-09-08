@@ -7,8 +7,7 @@
     Tel: +48536353598
 
 ### About myself:
-    I want to learn Front-End Development in RSSchool!
-
+I am energetic, ambitious persoon with high self-motivation, creative, adaptive and have an eye for detail. Now I'm learning Front-End Development in Rolling-Scopes school.
 ### Skills
     
     Python
