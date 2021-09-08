@@ -3,11 +3,11 @@
 ## Junior Frontend Developer
 
 ### Contacts:
-E-mail: fesa3400@gmail.com
-Tel: +38
+    E-mail: fesa3400@gmail.com
+    Tel: +48536353598
 
 ### About myself:
-I want to learn Front-End Development in RSSchool!
+    I want to learn Front-End Development in RSSchool!
 
 ### Skills
     
@@ -20,24 +20,27 @@ I want to learn Front-End Development in RSSchool!
 
 
 ### Code example:
+```
+    def repeats(arr):
+        n=0
+        for i in arr:
+            if arr.count(i) ==1:
+                n +=i
+        return n
+```
 
 ### Work experience:
-Nothing yet…
+    Nothing yet…
 
 ### Education and courses:
 
-CS50 video course
-
-Coursera 
-
-FreeCodeCamp Responsive Web Design https://www.freecodecamp.org/certification/mrks77/responsive-web-design
+    CS50 video course
+    Coursera 
+    FreeCodeCamp Responsive Web Design 
 
 ### Language:
 
-Rassian - native
-
-Ukrainian - native
-
-English level - B1
-
-Polish - B1
+    Rassian - native
+    Ukrainian - native
+    English level - B1
+    Polish - B1
