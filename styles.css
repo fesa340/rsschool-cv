@@ -35,7 +35,7 @@ a:link{
 }
 
 li #mail {
-    list-style-image: url"./icons/email.s(vg");
+    list-style-image: url"../icons/email.svg";
 }
 
 #portrait {
@@ -51,7 +51,7 @@ pre {
 footer {
     display: flex;
     box-sizing: border-box;
-    max-width: 900;
+    max-width: 900px;
     width: 100%;
     margin: auto;
     align-items: center;
